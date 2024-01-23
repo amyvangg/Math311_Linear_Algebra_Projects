@@ -7,4 +7,4 @@ This is a repository of projects for the Mathh 311 linear algebra course at Wino
 1. Solve Systems using colab and Python
 
 2. Using Google Co-Laboratory to introduce the idea of solving systems of equations with code:
-https://github.com/amyvangg/Math311_Linear_algebra_code_projects/blob/master/Math_311_solve_systems_using_computation_and_rref.ipynb
+https://github.com/awangberg/Math311_Linear_algebra_code_projects/blob/master/Math_311_solve_systems_using_computation_and_rref.ipynb
